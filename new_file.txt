@@ -2,3 +2,4 @@ linkubuspark repo
 latest edit
 alias edit
 last edit
+ssh config file set
