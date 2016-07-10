@@ -1,2 +1,3 @@
 linkubuspark repo
 latest edit
+alias edit
